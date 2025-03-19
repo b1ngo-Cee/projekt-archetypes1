@@ -1,0 +1,425 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+    height: 80px;
+}
+nav {
+    margin: 0 15px;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #007bff;
+    float: right;
+}
+.block12{
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 80px;
+    color: #1FD0C7;
+    float: left;
+    margin: 0;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+  }
+.foto{
+    position: relative;
+    background: url(image.png);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    top: 100px;
+    float: right;
+}
+h1{
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    color: #1FD0C7;
+}
+h2{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 30px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    top: 600px;
+    margin-left: 760px;
+}
+.text1{
+    position: relative;
+    background: url(image.png);
+    margin-left: 550px;
+    top: 220px;
+    margin-left: 80%;
+}
+.text3{
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-left: 40%;
+    margin-top: 15%;
+    margin-right: 5%;
+    display: block;
+    margin-top: -0%;
+    margin-right: 30%;
+}
+.text4{
+    position: absolute;
+    background: url(image.png);
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.text5{
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-left: 40%;
+    margin-top: 15%;
+    margin-right: 5%;
+    display: block;
+    bottom: 40px;
+}
+.text6{
+    background: url(image.png);
+    margin-top: 5%;
+    margin-left: 80%;
+}
+.text7{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    display: block;
+    margin-right: 30%;
+    margin-top: -8%;
+}
+.text8{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    color: #000000;
+    top: 50px;
+}
+.text9{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    display: block;
+    text-align: center;
+    margin-top: -23%;
+}
+.text10{
+    background: url(image.png);
+    margin-left: 37%;
+    margin-top: 10%;
+}
+h4{
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    color: #000000;
+    text-align: center;
+    margin-top: 25%;
+}
+.box6{
+    position: absolute;
+    background: url(image.png);
+    margin-top: 1%;
+    margin-left: 30%;
+}
+.box7{
+    position: relative;
+    top: 15px;
+    background: url(image.png);
+    margin-left: 47%;
+}
+.box8{
+    position: relative;
+    background: url(image.png);
+    top: 15px;
+    margin-left: 5%;
+}
+.box9{
+    position: relative;
+    background: url(image.png);
+    top: 100px;
+    float: left;
+    margin-left: 30%;
+}
+.box10{
+    position: relative;
+    background: url(image.png);
+    top: 340px;
+    margin-left: -28%;
+}
+.block{
+    position: relative;
+    background: url(image.png);
+    top: 340px;
+    margin-left: 4%;
+}
+.block1{
+    position: relative;
+    background: url(image.png);
+    top: 660px;
+    margin-left: -45%;
+}
+.block2{
+    position: relative;
+    background: url(image.png);
+    margin-left: 4%;
+    top: 660px;
+}
+.block3{
+    position: relative;
+    background: url(image.png);
+    top: 660px;
+    margin-left: 5%;
+}
+.block4{
+    position: relative;
+    background: url(image.png);
+    float: right;
+    margin-right: 58%;
+    top: 530px;
+}
+.block5{
+    position: relative;
+    background: url(image.png);
+    margin-left: 46%;
+    top: 310px;
+}
+.block6{
+    position: relative;
+    background: url(image.png);
+    margin-left: 63%;
+    top: 90px;
+}
+.note{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom:910px;
+    margin-left: 32%;
+}
+.note1{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 960px;
+    margin-left: 50%;
+}
+.note2{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 1010px;
+    margin-left: 65%;
+}
+.note3{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 770px;
+    margin-left: 34%;
+}
+.note4{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 820px;
+    margin-left: 50%;
+}
+.note5{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 870px;
+    margin-left: 65%;
+}
+.note6{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 600px;
+    margin-left: 32%;
+}
+.note7{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 650px;
+    margin-left: 50%;
+}
+.note8{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 710px;
+    margin-left: 65%;
+}
+.note9{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 490px;
+    margin-left: 32%;
+}
+.note10{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 530px;
+    margin-left: 50%;
+    
+}
+.note11{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    bottom: 590px;
+    margin-left: 65%;
+}
+.block7{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+    top: 1px;
+    margin-left: 15%;
+}
+p{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    display: block;
+    top: 10px;
+    margin-left: 10%;
+}
+.block8{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    bottom: 90px;
+    margin-left: 35%;
+}
+.block9{
+    position: relative;
+    background: url(image.png);
+    bottom: 80px;
+    margin-left: 35%;
+}
+.block10{
+    position: relative;
+    background: url(image.png);
+    bottom: 80px;
+    margin-left: 1%;
+}
+.block11{
+    position: relative;
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    bottom: 630px;
+    margin-left: 30%;
+
+}
+button{
+    position: relative;
+    background: #BCF2A9;
+    border: 1px solid #000000;
+    bottom: 590px;
+    margin-left: 63%;
+}
